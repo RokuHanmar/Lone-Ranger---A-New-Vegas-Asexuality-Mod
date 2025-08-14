@@ -1,5 +1,5 @@
 # Lone-Ranger---A-New-Vegas-Asexuality-Mod
-Adds a new perk, Lone Ranger to the game
+This mod adds a new perk, Lone Ranger to Fallout New Vegas. Lone Ranger prevents the player from taking the Black Widow, Lady Killer, Confirmed Bachelor or Cherchez la Femme perks. In return, version 1.0.3 will allow the player to deal 10% damage to all human enemies at the cost of the unique dialogue and opportunities presented by the aforementioned perks. Contrastingly, version 1.0.4 will grant the player an extra 10% damage threshold to all attacks coming from a human enemy.
 
 
 Manual Installation:
